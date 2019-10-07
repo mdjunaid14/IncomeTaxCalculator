@@ -1,0 +1,8 @@
+{
+    "version": 3,
+    "sources": ["index.css", "App.css"],
+    "names": [],
+    "mappings": "AAAA,KACE,QAAS,CACT,mIAEY,CACZ,kCAAmC,CACnC,iCACF,CAEA,KACE,uEAEF,CCZA,KACE,iBACF,CAEA,KACE,UACF,CAEA,YACE,YACF,CAEA,gBACE,UAAc,CACd,qEACF,CAEA,cACE,UAAc,CACd,YAAa,CACb,cACF,CAEA,aACE,sBAAwB,CACxB,kBAAmB,CACnB,yBAA6B,CAC7B,YAAa,CACb,kBACF,CAEA,WACE,WAAY,CACZ,UACF,CAEA,KACE,WAAY,CACZ,uBACF",
+    "file": "main.55071a35.chunk.css",
+    "sourcesContent": ["body {\n  margin: 0;\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\",\n    \"Ubuntu\", \"Cantarell\", \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\",\n    sans-serif;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\ncode {\n  font-family: source-code-pro, Menlo, Monaco, Consolas, \"Courier New\",\n    monospace;\n}", ".App {\n  text-align: center;\n}\n\nbody {\n  color: #333333;\n}\n\n.dimensions {\n  height: 550px;\n}\n\n.navbar-changes {\n  color: #333333;\n  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);\n}\n\n.link-changes {\n  color: #333333;\n  padding: 10px;\n  font-size: 30px;\n}\n\n.border-card {\n  border: 0.5px gray solid;\n  border-radius: 10px;\n  box-shadow: 0.2px 0.2px 0.2px;\n  padding: 50px;\n  margin: 80px 0px 10px 0px;\n}\n\n.listStyle {\n  padding: 5px;\n  margin: 5px;\n}\n\n.box {\n  padding: 5px;\n  border: 0.25px black solid;\n}"]
+}
